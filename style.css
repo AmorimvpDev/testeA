@@ -5,7 +5,8 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 32px;
+  margin-top: 10%;
+  margin-bottom: 7%;
   height: 600px;
-  width: 450px;
+  width: 370px;
 }
